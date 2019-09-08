@@ -1,0 +1,61 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/Kacper/Documents/PlatformIO/Projects/190908-190927-miniatmega328/include",
+                "c:/Users/Kacper/Documents/PlatformIO/Projects/190908-190927-miniatmega328/src",
+                "C:/Users/Kacper/.platformio/lib/CircularBuffer_ID1796",
+                "C:/Users/Kacper/.platformio/lib/Ticker_ID1586",
+                "C:/Users/Kacper/.platformio/lib/LiquidCrystal_I2C_ID576",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/cores/arduino",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs",
+                "C:/Users/Kacper/.platformio/lib/MySensors_ID548",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                "C:/Users/Kacper/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Kacper/Documents/PlatformIO/Projects/190908-190927-miniatmega328/include",
+                    "c:/Users/Kacper/Documents/PlatformIO/Projects/190908-190927-miniatmega328/src",
+                    "C:/Users/Kacper/.platformio/lib/CircularBuffer_ID1796",
+                    "C:/Users/Kacper/.platformio/lib/Ticker_ID1586",
+                    "C:/Users/Kacper/.platformio/lib/LiquidCrystal_I2C_ID576",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/cores/arduino",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/variants/eightanaloginputs",
+                    "C:/Users/Kacper/.platformio/lib/MySensors_ID548",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                    "C:/Users/Kacper/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                    "C:/Users/Kacper/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40003",
+                "ARDUINO_AVR_MINI",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10805",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"C:/Users/Kacper/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe\" -mmcu=atmega328p"
+        }
+    ],
+    "version": 4
+}
